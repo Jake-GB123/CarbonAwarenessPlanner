@@ -3,7 +3,7 @@
 A lightweight web app that helps you schedule computer‑intensive tasks at **lower‑carbon electricity times**, using live UK grid carbon‑intensity forecasts.
 
 ## Live demo
-https://Jake-GB123.github.io/carbonawarenessplanner/
+https://jake-gb123.github.io/CarbonAwarenessPlanner/
 
 ## Why this matters
 Electricity isn’t equally clean throughout the day. By shifting heavy digital activity (coding sessions, renders, large downloads) to greener periods, you can reduce your **indirect carbon footprint** with minimal effort.
